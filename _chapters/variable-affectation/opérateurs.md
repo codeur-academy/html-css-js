@@ -11,4 +11,5 @@ global_order: '24'
 directory: variable-affectation
 permalink: variable-affectation/opérateurs
 layout: chapters
+published: false
 ---

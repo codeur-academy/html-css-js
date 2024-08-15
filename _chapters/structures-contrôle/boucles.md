@@ -11,4 +11,5 @@ global_order: '31'
 directory: structures-contrôle
 permalink: structures-contrôle/boucles
 layout: chapter_with_concept
+published: false
 ---

@@ -11,4 +11,5 @@ global_order: '21'
 directory: variable-affectation
 permalink: variable-affectation/apprentissage
 layout: chapters
+published: false
 ---

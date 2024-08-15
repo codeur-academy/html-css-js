@@ -11,6 +11,7 @@ global_order: '4'
 directory: introduction-informatique
 permalink: introduction-informatique/concepts-base-informatique
 layout: chapter_with_concept
+published: true
 ---
 
 ## Résumé 

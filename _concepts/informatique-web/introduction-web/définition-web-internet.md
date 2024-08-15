@@ -7,7 +7,9 @@ unit_reference: introduction-informatique-web
 part: introduction-web
 concept_categories: introduction-web
 title: Définition de Web et Internet
-topics: "   - Différence entre Web et Internet\r\n   - Historique du Web"
+topics:
+- Différence entre Web et Internet
+- Historique du Web
 description: ''
 tutorials: ''
 Todo: ''

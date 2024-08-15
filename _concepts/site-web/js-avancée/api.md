@@ -7,7 +7,8 @@ unit_reference: html-css-js-avancée
 part: js-avancée
 concept_categories: ''
 title: Ajax
-topics: Interaction avec des API externes (fetch, axios)
+topics:
+- Interaction avec des API externes (fetch, axios)
 description: ''
 tutorials: ''
 Todo: ''

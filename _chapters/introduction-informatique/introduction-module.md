@@ -13,6 +13,7 @@ global_order: '1'
 directory: introduction-informatique
 permalink: introduction-informatique/introduction-module
 layout: chapters
+published: true
 ---
 
 # Module : Initiation à l'information et le web

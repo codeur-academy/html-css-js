@@ -7,7 +7,8 @@ unit_reference: html-css-js-maîtrise
 part: css-intermédiaire
 concept_categories: ''
 title: 'Positionnement '
-topics: Positionnement absolu, relatif, fixe
+topics:
+- Positionnement absolu, relatif, fixe
 description: ''
 tutorials: ''
 Todo: ''

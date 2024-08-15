@@ -7,7 +7,8 @@ unit_reference: html-css-js-avancée
 part: css-animations
 concept_categories: ''
 title: Techniques avancées
-topics: Techniques avancées pour des animations complexes
+topics:
+- Techniques avancées pour des animations complexes
 description: ''
 tutorials: ''
 Todo: ''

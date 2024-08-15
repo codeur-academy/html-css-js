@@ -7,7 +7,8 @@ unit_reference: html-css-js-maîtrise
 part: js-intermédiaire
 concept_categories: ''
 title: Événements
-topics: Gestion avancée des événements
+topics:
+- Gestion avancée des événements
 description: ''
 tutorials: ''
 Todo: ''

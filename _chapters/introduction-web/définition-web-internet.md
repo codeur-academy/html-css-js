@@ -11,4 +11,5 @@ global_order: '9'
 directory: introduction-web
 permalink: introduction-web/définition-web-internet
 layout: chapter_with_concept
+published: false
 ---

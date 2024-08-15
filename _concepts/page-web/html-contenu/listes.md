@@ -7,7 +7,8 @@ unit_reference: html-css-js-bases
 part: html-contenu
 concept_categories: Le Contenu
 title: 'Listes '
-topics: ul, ol, li
+topics:
+- ul, ol, li
 description: ''
 tutorials: ''
 Todo: ''

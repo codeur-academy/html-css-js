@@ -11,6 +11,7 @@ global_order: '5'
 directory: introduction-informatique
 permalink: introduction-informatique/fonctionnement-ordinateur
 layout: chapter_with_concept
+published: true
 ---
 
 **L'ordinateur :** Une machine électronique capable de traiter des informations (textes, images, sons) selon des instructions données (programmes).

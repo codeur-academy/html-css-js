@@ -7,7 +7,8 @@ unit_reference: html-css-js-bases
 part: html-fondamentaux
 concept_categories: Les Fondamentaux
 title: Structure d'un document HTML
-topics: Balises de base et structure d'un document HTML
+topics:
+- Balises de base et structure d'un document HTML
 description: ''
 tutorials: ''
 Todo: ''

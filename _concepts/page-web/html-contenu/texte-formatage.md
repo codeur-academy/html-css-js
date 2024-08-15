@@ -7,7 +7,7 @@ unit_reference: html-css-js-bases
 part: html-contenu
 concept_categories: Le Contenu
 title: Texte et formatage
-topics: " bold, italic, underline, etc."
+topics: " * bold, italic, underline, etc."
 description: ''
 tutorials: ''
 Todo: ''

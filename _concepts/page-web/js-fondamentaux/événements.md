@@ -7,7 +7,9 @@ unit_reference: html-css-js-bases
 part: js-fondamentaux
 concept_categories: Événements
 title: Événements
-topics: "   - Gestion des événements (clic, survol, etc.)\r\n   - Écouteurs d'événements"
+topics:
+- Gestion des événements (clic, survol, etc.)
+- Écouteurs d'événements
 description: ''
 tutorials: ''
 Todo: ''

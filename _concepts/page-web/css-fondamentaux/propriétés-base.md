@@ -7,7 +7,7 @@ unit_reference: html-css-js-bases
 part: css-fondamentaux
 concept_categories: Les base de CSS
 title: Propriétés de base
-topics: " color, font-size, background, etc."
+topics: " * color, font-size, background, etc."
 description: Couleurs, polices, tailles
 tutorials: ''
 Todo: ''

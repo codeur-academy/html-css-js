@@ -11,4 +11,5 @@ global_order: '16'
 directory: environnement-développement
 permalink: environnement-développement/configuration-vs-code
 layout: chapter_with_concept
+published: false
 ---

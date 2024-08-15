@@ -7,8 +7,9 @@ unit_reference: html-css-js-avancée
 part: html-avancée
 concept_categories: ''
 title: Accessibilité (WCAG)
-topics: "   - Principes de l'accessibilité web\r\n   - Mise en œuvre des recommandations
-  WCAG"
+topics:
+- Principes de l'accessibilité web
+- Mise en œuvre des recommandations WCAG
 description: ''
 tutorials: ''
 Todo: ''

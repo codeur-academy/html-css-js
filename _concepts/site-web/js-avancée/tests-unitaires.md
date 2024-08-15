@@ -7,7 +7,8 @@ unit_reference: html-css-js-avancée
 part: js-avancée
 concept_categories: ''
 title: Tests unitaires
-topics: Introduction à Jest et Mocha pour les tests unitaires
+topics:
+- Introduction à Jest et Mocha pour les tests unitaires
 description: ''
 tutorials: ''
 Todo: ''

@@ -12,4 +12,5 @@ directory: introduction-informatique
 permalink: introduction-informatique/rôle-langages-programmation
 layout: chapter_with_concept
 concept_reference: rôle-langages-programmation
+published: true
 ---

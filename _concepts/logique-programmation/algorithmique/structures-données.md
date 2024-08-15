@@ -7,7 +7,8 @@ unit_reference: algorithme
 part: algorithmique
 concept_categories: ''
 title: Structures de données
-topics: Tableaux, listes, tables de hachage
+topics:
+- Tableaux, listes, tables de hachage
 description: ''
 tutorials: ''
 Todo: ''

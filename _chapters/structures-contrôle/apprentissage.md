@@ -11,4 +11,5 @@ global_order: '29'
 directory: structures-contrôle
 permalink: structures-contrôle/apprentissage
 layout: chapters
+published: false
 ---

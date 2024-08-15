@@ -7,7 +7,8 @@ unit_reference: introduction-informatique-web
 part: introduction-web
 concept_categories: introduction-web
 title: Définition de HTML, CSS, et JavaScript
-topics: "   - Rôle de chaque langage dans le développement web"
+topics:
+- Rôle de chaque langage dans le développement web
 description: ''
 tutorials: ''
 Todo: ''

@@ -7,8 +7,9 @@ unit_reference: algorithme
 part: algorithmique
 concept_categories: ''
 title: Algorithmique
-topics: "   - Introduction à la pensée algorithmique\r\n   - Résolution de problèmes
-  algorithmiques simples"
+topics:
+- Introduction à la pensée algorithmique
+- Résolution de problèmes algorithmiques simples
 description: ''
 tutorials: ''
 Todo: ''

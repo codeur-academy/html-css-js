@@ -11,4 +11,7 @@ global_order: '7'
 directory: introduction-informatique
 permalink: introduction-informatique/conclusion
 layout: chapters
+published: true
 ---
+
+# Conclusion

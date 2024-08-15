@@ -11,8 +11,10 @@ global_order: '3'
 directory: introduction-informatique
 permalink: introduction-informatique/apprentissage
 layout: chapters
+published: true
 ---
 
+# Apprentissage
 
 Dans cette phase d'apprentissage, nous aborderons trois concepts fondamentaux : 
 - les bases de l'informatique, 

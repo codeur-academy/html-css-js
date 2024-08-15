@@ -7,7 +7,8 @@ unit_reference: html-css-js-maîtrise
 part: css-intermédiaire
 concept_categories: ''
 title: Flexbox
-topics: Création de mises en page flexibles avec Flexbox
+topics:
+- Création de mises en page flexibles avec Flexbox
 description: ''
 tutorials: ''
 Todo: ''

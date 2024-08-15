@@ -7,7 +7,8 @@ unit_reference: introduction-informatique-web
 part: environnement-développement
 concept_categories: environnement-développement-base-frent-end
 title: Configuration de l'éditeur et des extensions utiles
-topics: Extensions recommandées pour le développement web
+topics:
+- Extensions recommandées pour le développement web
 description: ''
 tutorials: ''
 Todo: ''

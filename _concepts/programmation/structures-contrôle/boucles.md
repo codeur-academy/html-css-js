@@ -7,7 +7,8 @@ unit_reference: base-programmation-js
 part: structures-contrôle
 concept_categories: Structures de contrôle
 title: Structures de contrôle - boucles
-topics: "(déclaration, appels, paramètres, retour)"
+topics:
+- "(déclaration, appels, paramètres, retour)"
 description: ''
 tutorials: ''
 Todo: ''

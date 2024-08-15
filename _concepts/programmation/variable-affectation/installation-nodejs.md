@@ -7,7 +7,8 @@ unit_reference: base-programmation-js
 part: variable-affectation
 concept_categories: Installation de Node.js
 title: Installation de Node.js
-topics: Installation de Node.js et introduction à npm
+topics:
+- Installation de Node.js et introduction à npm
 description: ''
 tutorials: ''
 Todo: ''

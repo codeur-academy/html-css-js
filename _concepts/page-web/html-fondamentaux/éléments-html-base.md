@@ -7,7 +7,8 @@ unit_reference: html-css-js-bases
 part: html-fondamentaux
 concept_categories: Les Fondamentaux
 title: 'Éléments HTML de base '
-topics: Titres, paragraphes, listes, images, liens
+topics:
+- Titres, paragraphes, listes, images, liens
 description: ''
 tutorials: ''
 Todo: ''

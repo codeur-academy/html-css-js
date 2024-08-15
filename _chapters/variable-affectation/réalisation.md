@@ -11,4 +11,5 @@ global_order: '25'
 directory: variable-affectation
 permalink: variable-affectation/réalisation
 layout: chapters
+published: false
 ---

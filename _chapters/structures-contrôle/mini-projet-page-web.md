@@ -11,4 +11,5 @@ global_order: '28'
 directory: structures-contrôle
 permalink: structures-contrôle/mini-projet-page-web
 layout: chapters
+published: false
 ---

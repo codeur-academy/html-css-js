@@ -7,7 +7,8 @@ unit_reference: html-css-js-bases
 part: css-fondamentaux
 concept_categories: Les base de CSS
 title: 'Boîte CSS '
-topics: box-model
+topics:
+- box-model
 description: Modèle de boîte CSS, marges, bordures, paddings, contenus
 tutorials: ''
 Todo: ''

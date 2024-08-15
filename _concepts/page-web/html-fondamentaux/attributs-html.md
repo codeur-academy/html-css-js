@@ -7,7 +7,8 @@ unit_reference: html-css-js-bases
 part: html-fondamentaux
 concept_categories: Les Fondamentaux
 title: 'Attributs HTML '
-topics: Attributs globaux et spécifiques
+topics:
+- Attributs globaux et spécifiques
 description: ''
 tutorials: ''
 Todo: ''

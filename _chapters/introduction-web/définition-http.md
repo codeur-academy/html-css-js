@@ -11,4 +11,5 @@ global_order: '12'
 directory: introduction-web
 permalink: introduction-web/définition-http
 layout: chapter_with_concept
+published: false
 ---

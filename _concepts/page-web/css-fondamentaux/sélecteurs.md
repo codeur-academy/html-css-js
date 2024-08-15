@@ -7,7 +7,8 @@ unit_reference: html-css-js-bases
 part: css-fondamentaux
 concept_categories: Les base de CSS
 title: Sélecteurs
-topics: " id, class, élément"
+topics:
+- id, class, élément
 description: Sélecteurs par tag, classe, ID
 tutorials: ''
 Todo: ''

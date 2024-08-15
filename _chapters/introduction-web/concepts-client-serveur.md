@@ -11,4 +11,5 @@ global_order: '11'
 directory: introduction-web
 permalink: introduction-web/concepts-client-serveur
 layout: chapter_with_concept
+published: false
 ---

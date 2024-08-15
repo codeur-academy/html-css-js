@@ -7,7 +7,8 @@ unit_reference: spécialisation-création-site-web
 part: optimisation-performances
 concept_categories: ''
 title: Gestion de build
-topics: Introduction à Webpack et Parcel
+topics:
+- Introduction à Webpack et Parcel
 description: ''
 tutorials: ''
 Todo: ''

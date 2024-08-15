@@ -7,7 +7,8 @@ unit_reference: html-css-js-maîtrise
 part: html-intermédiaire
 concept_categories: La Structure
 title: Balises sémantiques
-topics: header, footer, nav, section, article
+topics:
+- header, footer, nav, section, article
 description: 'Importance des balises sémantiques pour l''accessibilité et le SEO
 
   '

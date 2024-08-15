@@ -7,7 +7,8 @@ unit_reference: html-css-js-maîtrise
 part: css-intermédiaire
 concept_categories: ''
 title: Grid
-topics: Création de grilles complexes avec CSS Grid
+topics:
+- Création de grilles complexes avec CSS Grid
 description: ''
 tutorials: ''
 Todo: ''

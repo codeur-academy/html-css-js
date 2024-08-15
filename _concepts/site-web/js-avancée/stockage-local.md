@@ -7,7 +7,8 @@ unit_reference: html-css-js-avancée
 part: js-avancée
 concept_categories: ''
 title: Stockage local
-topics: Utilisation de localStorage et sessionStorage
+topics:
+- Utilisation de localStorage et sessionStorage
 description: ''
 tutorials: ''
 Todo: ''

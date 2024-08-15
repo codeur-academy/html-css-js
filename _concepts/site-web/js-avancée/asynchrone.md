@@ -7,7 +7,8 @@ unit_reference: html-css-js-avancée
 part: js-avancée
 concept_categories: ''
 title: Asynchrone
-topics: Promesses et async/await
+topics:
+- Promesses et async/await
 description: ''
 tutorials: ''
 Todo: ''

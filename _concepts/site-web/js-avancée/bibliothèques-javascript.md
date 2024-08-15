@@ -7,7 +7,8 @@ unit_reference: html-css-js-avancée
 part: js-avancée
 concept_categories: ''
 title: Bibliothèques JavaScript
-topics: Introduction à jQuery et à une bibliothèque moderne (Vue.js)
+topics:
+- Introduction à jQuery et à une bibliothèque moderne (Vue.js)
 description: ''
 tutorials: ''
 Todo: ''

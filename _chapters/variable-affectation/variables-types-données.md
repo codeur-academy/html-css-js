@@ -11,4 +11,5 @@ global_order: '23'
 directory: variable-affectation
 permalink: variable-affectation/variables-types-données
 layout: chapters
+published: false
 ---

@@ -11,6 +11,7 @@ global_order: '2'
 directory: introduction-informatique
 permalink: introduction-informatique/introduction
 layout: chapters
+published: true
 ---
 
 # Introduction à l'informatique

@@ -7,7 +7,8 @@ unit_reference: introduction-informatique-web
 part: introduction-web
 concept_categories: introduction-web
 title: Définition de HTTP
-topics: "   - Protocole HTTP et ses méthodes principales (GET, POST, etc.)"
+topics:
+- Protocole HTTP et ses méthodes principales (GET, POST, etc.)
 description: ''
 tutorials: ''
 Todo: ''

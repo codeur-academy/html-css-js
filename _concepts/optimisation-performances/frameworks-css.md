@@ -7,7 +7,8 @@ unit_reference: spécialisation-création-site-web
 part: optimisation-performances
 concept_categories: ''
 title: Frameworks CSS
-topics: Bootstrap, Foundation
+topics:
+- Bootstrap, Foundation
 description: ''
 tutorials: ''
 Todo: ''

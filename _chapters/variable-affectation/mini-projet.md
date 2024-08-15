@@ -11,4 +11,5 @@ global_order: '20'
 directory: variable-affectation
 permalink: variable-affectation/mini-projet
 layout: chapters
+published: false
 ---

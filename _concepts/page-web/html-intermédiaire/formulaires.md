@@ -7,8 +7,8 @@ unit_reference: html-css-js-maîtrise
 part: html-intermédiaire
 concept_categories: La Structure
 title: Formulaires
-topics: Création de formulaires avec différentes entrées (texte, radio, checkbox,
-  etc.)
+topics:
+- Création de formulaires avec différentes entrées (texte, radio, checkbox, etc.)
 description: ''
 tutorials: ''
 Todo: ''

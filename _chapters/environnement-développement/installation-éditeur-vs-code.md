@@ -11,4 +11,5 @@ global_order: '15'
 directory: environnement-développement
 permalink: environnement-développement/installation-éditeur-vs-code
 layout: chapter_with_concept
+published: false
 ---

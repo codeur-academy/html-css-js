@@ -7,7 +7,8 @@ unit_reference: base-programmation-js
 part: variable-affectation
 concept_categories: Variable et affectation
 title: Opérateurs
-topics: "(arithmétiques, logiques, de comparaison)"
+topics:
+- "(arithmétiques, logiques, de comparaison)"
 description: ''
 tutorials: ''
 Todo: ''

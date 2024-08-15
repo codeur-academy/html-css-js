@@ -7,7 +7,8 @@ unit_reference: html-css-js-bases
 part: css-fondamentaux
 concept_categories: Les base de CSS
 title: Intégration du CSS
-topics: Liens externes, internes, en ligne
+topics:
+- Liens externes, internes, en ligne
 description: ''
 tutorials: ''
 Todo: ''

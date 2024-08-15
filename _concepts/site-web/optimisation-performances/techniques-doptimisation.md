@@ -7,7 +7,8 @@ unit_reference: spécialisation-création-site-web
 part: optimisation-performances
 concept_categories: ''
 title: Techniques d'optimisation
-topics: Minification, compression, lazy loading
+topics:
+- Minification, compression, lazy loading
 description: ''
 tutorials: ''
 Todo: ''

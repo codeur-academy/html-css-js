@@ -11,4 +11,5 @@ global_order: '32'
 directory: structures-contrôle
 permalink: structures-contrôle/conception
 layout: chapters
+published: false
 ---

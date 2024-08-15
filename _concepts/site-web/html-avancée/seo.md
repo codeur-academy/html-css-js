@@ -7,7 +7,8 @@ unit_reference: html-css-js-avancée
 part: html-avancée
 concept_categories: ''
 title: SEO
-topics: Techniques de SEO pour améliorer le classement dans les moteurs de recherche
+topics:
+- Techniques de SEO pour améliorer le classement dans les moteurs de recherche
 description: ''
 tutorials: ''
 Todo: ''

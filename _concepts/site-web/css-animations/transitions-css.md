@@ -7,7 +7,8 @@ unit_reference: html-css-js-avancée
 part: css-animations
 concept_categories: ''
 title: Transitions CSS
-topics: Utilisation des transitions pour créer des effets visuels
+topics:
+- Utilisation des transitions pour créer des effets visuels
 description: ''
 tutorials: ''
 Todo: ''

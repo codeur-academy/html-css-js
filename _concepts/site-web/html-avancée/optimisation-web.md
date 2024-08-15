@@ -7,7 +7,8 @@ unit_reference: html-css-js-avancée
 part: html-avancée
 concept_categories: ''
 title: Optimisation pour le web
-topics: Techniques d'optimisation des performances (compression, minification)
+topics:
+- Techniques d'optimisation des performances (compression, minification)
 description: ''
 tutorials: ''
 Todo: ''

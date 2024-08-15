@@ -7,7 +7,8 @@ unit_reference: html-css-js-avancée
 part: css-animations
 concept_categories: ''
 title: Animations CSS
-topics: Création et gestion des animations CSS
+topics:
+- Création et gestion des animations CSS
 description: ''
 tutorials: ''
 Todo: ''

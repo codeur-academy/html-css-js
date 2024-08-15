@@ -7,9 +7,10 @@ unit_reference: introduction-informatique-web
 part: introduction-informatique
 concept_categories: introduction-informatique
 title: Rôle des langages de programmation
-topics: |2-
-     - Langages de haut niveau vs bas niveau
-     - Introduction aux différents types de langages de programmation (interprétés, compilés, etc.)
+topics:
+- Langages de haut niveau vs bas niveau
+- Introduction aux différents types de langages de programmation (interprétés, compilés,
+  etc.)
 description: ''
 tutorials: ''
 Todo: ''

@@ -7,7 +7,8 @@ unit_reference: html-css-js-bases
 part: html-contenu
 concept_categories: Le Contenu
 title: 'Images '
-topics: src, alt, width, height
+topics:
+- src, alt, width, height
 description: ''
 tutorials: ''
 Todo: ''
