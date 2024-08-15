@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/html-css-js/sitemap.xml
+Sitemap: https://codeur-academy.com/html-css-js/sitemap.xml
