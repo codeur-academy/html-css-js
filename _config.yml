@@ -5,7 +5,7 @@ description: Apprendre à coder avec le tuteur ESSARRAJ Fouad
 locale: fr_FR
 environment: production
 # URL
-baseurl: "/tuto-developpeur"
+baseurl: "/html-css-js"
 url: "https://codeur-academy.com" 
 
 # Formation
